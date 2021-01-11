@@ -1,1 +1,1 @@
-console.log('ui-kit')
+console.log('ui-kit-2')
