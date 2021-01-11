@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "page-settings": "1.2.1",
-    "page-users": "1.0.1"
+    "page-settings": "1.2.2",
+    "page-users": "1.0.2"
   }
 }

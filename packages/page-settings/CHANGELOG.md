@@ -1,5 +1,12 @@
 # page-settings
 
+## 1.2.2
+
+### Patch Changes
+
+- Updated dependencies [cb59f31]
+  - ui-kit@2.1.0
+
 ## 1.2.1
 
 ### Patch Changes

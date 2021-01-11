@@ -1,5 +1,11 @@
 # ui-kit
 
+## 2.1.0
+
+### Minor Changes
+
+- cb59f31: My super
+
 ## 2.0.0
 
 ### Major Changes
