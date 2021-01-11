@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "page-settings": "*",
-    "page-users": "*"
+    "page-settings": "1.2.1",
+    "page-users": "1.0.1"
   }
 }
