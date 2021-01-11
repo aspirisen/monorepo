@@ -1,5 +1,11 @@
 # ui-kit
 
+## 2.2.0
+
+### Minor Changes
+
+- 518e1a0: Test
+
 ## 2.1.0
 
 ### Minor Changes

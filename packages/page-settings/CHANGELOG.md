@@ -1,5 +1,16 @@
 # page-settings
 
+## 1.3.0
+
+### Minor Changes
+
+- 518e1a0: Test
+
+### Patch Changes
+
+- Updated dependencies [518e1a0]
+  - ui-kit@2.2.0
+
 ## 1.2.2
 
 ### Patch Changes
