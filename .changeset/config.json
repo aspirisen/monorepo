@@ -1,15 +1,13 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@1.4.0/schema.json",
   "changelog": "@changesets/cli/changelog",
-  "commit": true,
+  "commit": false,
   "linked": [
     [
-      "app",
       "page-settings",
       "ui-kit"
     ],
     [
-      "app",
       "page-users",
       "ui-kit"
     ]

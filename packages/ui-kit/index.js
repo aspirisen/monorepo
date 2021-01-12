@@ -1,1 +1,1 @@
-console.log('ui-kit-3')
+module.exports.action = () => console.log('ui-kit v2.2.0')
